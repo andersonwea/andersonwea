@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Front-end Web developer<br>🔭 I’m currently looking for the first vacancy<br>👯 I’m looking to collaborate on new projets<br>🌱 I’m currently learning ReactJS, NextJS, Typescript<br>💡 I’m looking for new projets ideias<br> ⛓ Blockchain is awesome
+💻 Front-end Web developer<br>🔭 I’m currently looking for the first vacancy<br>👯 I’m looking to collaborate on new projets<br>🌱 I’m currently learning NodeJs, SQL, PostGreSQL<br>💡 I’m looking for new projets ideias<br> ⛓ Blockchain is awesome
 
 
 ## 🌐 Socials:
