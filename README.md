@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-💻 Desenvolvedor de Software.<br>🔭 Procurando minha primeira oportunidade.<br>👯 Aberto para contribuir para projetos.<br>🌱 Estudando NodeJs, SQL, PostGreSQL e Docker.<br>💡 Sempre desenvolvendo novas ideias para projetos.<br> ⛓ Blockchain e Web3 são incríveis.
+💻 Desenvolvedor de Software.<br>🔭 Procurando minha primeira oportunidade.<br>👯 Aberto para contribuir para projetos.<br>🌱 Estudando SOLID e Design Patterns.<br>💡 Sempre desenvolvendo novas ideias para projetos.<br> ⛓ Blockchain e Web3 são incríveis.
 
 
 # 🌐 Redes Sociais:
